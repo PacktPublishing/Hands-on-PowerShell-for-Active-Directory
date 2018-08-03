@@ -1,0 +1,3 @@
+#Use this command in an Administrator console of PowerShell to enable Hyper-V within Windows 10 Pro
+
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
