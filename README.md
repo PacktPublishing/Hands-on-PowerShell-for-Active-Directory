@@ -1,30 +1,40 @@
-# Microservices Architecture [Video]
-This is the code repository for [Microservices Architecture [Video]](https://www.packtpub.com/application-development/microservices-architecture-video?utm_source=github&utm_medium=repository&utm_campaign=9781788628310), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On PowerShell for Active Directory [Video]
+This is the code repository for [Hands-On PowerShell for Active Directory [Video]](https://www.packtpub.com/virtualization-and-cloud/hands-powershell-active-directory-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-	All major companies are now evolving from a monolithic to a microservices architecture in their websites and applications due to its many advantages. Early adopters of microservices have been able to provide an unprecedented level of control and speed as they deliver innovative web experiences to customers, and Netflix is a leading example.
-The enterprise-grade architecture that we will build throughout the course will be highly maintainable and scalable. By exploring the intricacies of the microservices architecture you will understand its advantages over a monolithic and other related architecture. By going through multiple scenarios you'll learn where to use microservices and understand the things you should take into account when building your architecture. Advanced tasks—with concepts such as Serverless computing and DevOps using AWS—will also be undertaken to help you in your next venture with confidence.
-By the end of the course, you will be ready to migrate to a microservices architecture in your organization.
+PowerShell has become the most efficient tool for managing Microsoft Active Directory. Its ability to solve problems and turn the solution into a new tool or automated task allows the system admin to cut down on future manual labor hours. This course will train you in using PowerShell to manage Active Directory. You will customize your preferences, run custom reports, author scripts, and automate tasks. You will discover how to create scripts, access and change data stores, and automate tasks. By the end of the course, you will have the skills to automate Active Directory jobs with PowerShell components such as cmdlets, functions, modules, providers, objects, variables, expressions, and profiles.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understanding and learning microservices. 
-<LI>Setting up microservices. 
-<LI>Making a bookmark application cloud-ready. 
-<LI>Combining independent microservice UIs to a coherent user interface. </LI></UL></DIV>
+<LI>Set up lab environments to learn and test PowerShell processes 
+<LI>Navigate and use PowerShell with Active Directory fluently
+<LI>Manage domain controllers remotely using PowerShell
+<LI>Author scripts and tools to automate Active Directory tasks
+<LI>Solve problems and perform Active Directory tasks using PowerShell
+<LI>Work with Azure Load Balancers and Application Gateways with Windows PowerShell. </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
-This course will appeal to architects, designers, and developers who are primarily new to the microservices architecture and interested in migrating to it from a monolithic architecture.
+This course is for experienced Active Directory administrators looking to start using the benefits of Windows PowerShell for increased efficiency by utilizing automation and tools. No prior knowledge of PowerShell is required.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-req
+Minimum Hardware Requirements
 
-## Related Products
-* [SharePoint 2016: Architecture, Deployment and Security [Video]](https://www.packtpub.com/virtualization-and-cloud/sharepoint-2016-architecture-deployment-security-video?utm_source=github&utm_medium=repository&utm_campaign=9781788298506)
+For successful completion of this course, students will require a computer system with at least the following:
 
-* [Building Microservices on AWS [Video]](https://www.packtpub.com/application-development/building-microservices-aws-video?utm_source=github&utm_medium=repository&utm_campaign=9781789341638)
+·         OS: Any modern OS (Windows, Mac, or Linux)
 
-* [Microservices with Spring Cloud [Integrated Course]](https://www.packtpub.com/virtualization-and-cloud/microservices-spring-cloud-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788392426)
+·         RAM: 8GB minimum, 16 or more recommended
+
+·         CPU: i5, equivalent, or better recommended
+
+·         Storage: 120GB minimum free space for the lab environment
+
+Software Requirements
+
+·         Hypervisor (free options shown in video instructions)
+
+·         Windows PowerShell v5 (included with Windows 10 trial you will install as part of lab)
+
+·         PowerShell ISE (included with Windows 10)
+
 
